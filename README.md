@@ -1,15 +1,11 @@
 # fine_dust
 빅콘프로젝트
 ## 1.환경기상데이터
+### data폴더를 path로 설정
 ### 1) 노원구_hourly_daily_v1
-####  in
-##### 노원구 raw 데이터 전부 
-####  out
-#####   미세먼지_hourly_동_v2.csv
-#####   미세먼지_daily_동_v2.csv
 ### 2) 종로구_hourly_daily_v2
-### 3) 미세먼지_보간
-### 4) 미세먼지_pagerank
+### 3) 미세먼지_보간_v3
+### 4) 미세먼지_pagerank_v4
 ## 2.sns데이터
 ### 1) sns데이터
 ### 2) 생활인구
